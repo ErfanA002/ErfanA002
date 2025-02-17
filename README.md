@@ -8,16 +8,12 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 </div>
 
-
-<!-- Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanA002&theme=aura&hide_border=true" width="34%" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ErfanA002&hide_border=true&include_all_commits=true&count_private=true&theme=aura" width="33%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanA002&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="33%" /> 
 </div>
 
-
-<!-- Tech Stack -->
 <div align="center">
   
 ## 💻 Tech Stack ⚡
@@ -25,8 +21,6 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 </div>
 
-
-<!-- Socials -->
 <div align="center">
   
 ## 🌐 Connect with Me 🍬
@@ -34,18 +28,14 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 </div>
 
-<!-- Counter -->
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=ErfanA002&icon=10&color=6)](https://visitcount.itsvg.in)
 
+  ## 🏆 GitHub Trophies
+
+  ![](https://github-profile-trophy.vercel.app/?username=ErfanA002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 </div>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ErfanA002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-
-
