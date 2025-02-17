@@ -1,16 +1,19 @@
-## Hi there 👋
+# I'm Erfan, a brave software engineer who wants to change the world! 😉
 
-<!--
-**ErfanA002/ErfanA002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HEADER -->
+<!-- [![MasterHead](header.png)](https://github.com/arshamalh) -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Info
+```go
+whoAmI := map[string]interface{}{
+	"name":            "Erfan A",
+	"nick name": 	   "Erfan",
+	"profession":      "Backend Software Engineer",
+	"location":        "Iran",
+	"languages":       []string{"Go", "Javascript", "Python", "Solidity"},
+	"databases":       []string{"PostgreSQL", "MongoDB", "Redis", "MySQL"},
+	"frameworks":      []string{"ExpressJS", "Gin", "FastAPI", "SvelteJS", "NextJS"}
+	"design":          []string{"Microservices", "Event-driven development"},
+	"tools":           []string{"Kubernetes", "Docker", "Git"},
+}
+``` 
