@@ -5,8 +5,11 @@
 </p>
 
 ## 💫 About Me
-<p>
+
+<p align="left">
+
   sample test text
+  
 </p>
 
 ## 🖥️ Technical Skills
