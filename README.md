@@ -28,8 +28,6 @@ whoAmI := map[string]interface{}{
 </p>
 
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ErfanA002&count_private=true&show_icons=true&theme=merko" alt="sanam's Github Stats" width="60%" height="350px">
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanA002&count_private=true&show_icons=true&theme=merko" width="30%" height="300px" alt="MohsenKhademian's Top Languages">
 
