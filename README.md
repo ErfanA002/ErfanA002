@@ -11,7 +11,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 <!-- Stats -->
 <div align="center">
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanA002&theme=aura&hide_border=true" width="34%" /><br> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErfanA002&theme=aura&hide_border=true" width="34%" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=ErfanA002&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="33%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErfanA002&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="33%" /> 
 </div>
